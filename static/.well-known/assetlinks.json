@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "com.example.best_nest",
+                 "sha256_cert_fingerprints": ["7D:18:A0:DE:4E:65:F2:63:38:96:AD:AA:E6:B5:CA:F8:31:A1:07:73:5B:2B:AC:79:E5:EA:B3:9E:18:F4:78:CA"] }
+  }]
